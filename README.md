@@ -9,9 +9,10 @@ Visualizador DICOM con las siguientes funciones:
 - Internamente, corregistro entre dos imágenes DICOM
 
 ## Ejemplos
-
+### Visualizador síncrono
+<img src="/imgs/view1.png" width="75%" height="75%">
+### Visualizador de imagen fusionada
 <img src="/imgs/view1.png" width="75%" height="75%">
 <img src="/imgs/view1.png" width="75%" height="75%">
-<img src="/imgs/view1.png" width="75%" height="75%">
-Jonatan Mariscal García
+Jonatan Mariscal García | 
 Universitat de les Illes Balears
