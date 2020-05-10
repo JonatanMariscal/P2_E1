@@ -8,8 +8,7 @@ Visualizador DICOM con las siguientes funciones:
 
 - Internamente, corregistro entre dos imágenes DICOM
 
-![screenshot](view.png)
-
+![view1](/imgs/view1.png){:height="75%" width="75%"}
 
 Jonatan Mariscal García
 Universitat de les Illes Balears
