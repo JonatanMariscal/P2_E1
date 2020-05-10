@@ -8,6 +8,10 @@ Visualizador DICOM con las siguientes funciones:
 
 - Internamente, corregistro entre dos imágenes DICOM
 
+## Ejemplos
+
+<img src="/imgs/view1.png" width="75%" height="75%">
+<img src="/imgs/view1.png" width="75%" height="75%">
 <img src="/imgs/view1.png" width="75%" height="75%">
 Jonatan Mariscal García
 Universitat de les Illes Balears
